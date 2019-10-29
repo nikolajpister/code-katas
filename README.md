@@ -1,5 +1,5 @@
 # code-katas
 
-Im Master sind die Aufgaben bereits gelöst.
+Im master-branch sind die Aufgaben bereits gelöst.
 
-Im todo sind die Aufgabenstellungen.
+Im todo-branch sind die Aufgabenstellungen.
